@@ -1,0 +1,5 @@
+1. What is the difference between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)?
+2. What are some real-world applications of AI?
+3. What are the ethical considerations surrounding AI?
+4. What are the challenges of achieving Artificial General Intelligence (AGI)?
+5. What is the future of AI?
